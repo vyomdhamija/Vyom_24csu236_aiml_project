@@ -1,0 +1,97 @@
+{
+  "cap-shape": [
+    "b",
+    "c",
+    "f",
+    "o",
+    "p",
+    "s",
+    "x"
+  ],
+  "cap-surface": [
+    "d",
+    "e",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "s",
+    "t",
+    "unknown",
+    "w",
+    "y"
+  ],
+  "cap-color": [
+    "b",
+    "e",
+    "g",
+    "k",
+    "l",
+    "n",
+    "o",
+    "p",
+    "r",
+    "u",
+    "w",
+    "y"
+  ],
+  "does-bruise-or-bleed": [
+    "f",
+    "t"
+  ],
+  "gill-attachment": [
+    "a",
+    "d",
+    "e",
+    "f",
+    "p",
+    "s",
+    "unknown",
+    "x"
+  ],
+  "gill-spacing": [
+    "c",
+    "d",
+    "f",
+    "unknown"
+  ],
+  "gill-color": [
+    "b",
+    "e",
+    "f",
+    "g",
+    "k",
+    "n",
+    "o",
+    "p",
+    "r",
+    "u",
+    "w",
+    "y"
+  ],
+  "habitat": [
+    "d",
+    "g",
+    "h",
+    "l",
+    "m",
+    "p",
+    "u",
+    "w"
+  ],
+  "season": [
+    "a",
+    "s",
+    "u",
+    "w"
+  ],
+  "cap_range": [
+    0.38,
+    62.34
+  ],
+  "stem_range": [
+    0.0,
+    33.92
+  ]
+}
